@@ -1,0 +1,15 @@
+export const LOADING_PRODUCTS = "LOADING_PRODUCTS"
+export const LOAD_PRODUCTS = "LOAD_PRODUCTS"
+
+export const LOADING_CARTS = "LOADING_CARTS"
+export const LOAD_CARTS = "LOAD_CARTS"
+export const ADD_CARTS = "ADD_CARTS"
+export const DELETE_CARTS = "DELETE_CARTS"
+export const DELETE_ALL_CARTS = "DELETE_ALL_CARTS"
+export const EDIT_CARTS = "EDIT_CARTS"
+
+export const LOADING_HISTORY = "LOADING_HISTORY"
+export const LOAD_HISTORY = "LOAD_HISTORY"
+export const DELETE_HISTORY = "DELETE_HISTORY"
+
+export const SET_AUTH = "SET_AUTH"

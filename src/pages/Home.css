@@ -1,0 +1,9 @@
+.Homepage {
+    text-align: center;
+    flex-direction: column;
+    margin-top: 150px;
+}
+
+.Homepage button {
+    width: fit-content;
+}
